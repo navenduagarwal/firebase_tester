@@ -1,0 +1,30 @@
+{
+  "name": "firebase_tester",
+  "version": "0.1.0",
+  "description": "Test FireBase Node APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navenduagarwal/firebase_tester"
+  },
+  "engine": "node >= 4.1.1",
+  "keywords": [
+    "firebase",
+    "nodejs"
+  ],
+  "author": "navendu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/navenduagarwal/firebase_tester/issues"
+  },
+  "homepage": "https://github.com/navenduagarwal/firebase_tester#readme",
+  "dependencies": {
+    "firebase": "^3.4.1",
+    "firebase-token-generator": "^2.0.0",
+    "google-cloud": "^0.41.2"
+  }
+}

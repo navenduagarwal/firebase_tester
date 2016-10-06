@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "slackclone-59064",
+  "private_key_id": "8d5f0a4f92b57d411653ee89c51da9797a43ea4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH16dZiPqlFKsB\nHqgAS3wnmgYO2mxX/sDkbP2jVkwrt3OiFSmVteKBuPKX7kpyw2IA1fIlFkdN3PIf\nguVCcR6i3yXUEKvljVju38vRVnzObxhy0bai3mOqCv4W0gMEMh2N76gEKx3CzXOs\nY9jARAVwNuBfO/6mqTU3Gw7h61aRrxSYjJyKmDBjkrLsWJHllMwOuVYqV66IDzQw\nyHmGaI9453uB0FwW6iuJ0pNuZcADK3MrYkGtRSRfrdYErXKU5C9DWSJhcyZsLtjR\nsGrH5TTSwoAZZdPb9EXr2uNaOh3ZE0MRPzELT2Q0MTBWBzXeBlmw96QAZCp8sVgd\nlHjj1nMRAgMBAAECggEAGGaKdnI1OGbXomFd3ftZg3RY/QNKa0wdvUZZidIFpujV\nY5r14uO8bl5osIhV6sFUfAmjcUfRGP67SYGwAHbTaMuaUNRgSL0DeNc2ia7nukTy\nVUKp7CT/QknpUFwAJkkANs5mU2v4TErNruTaGE+14kexCa/Hng3XA414ObmEbnEc\nktnx1DD32bw+Tpmzm2ZMRlfwWBQ9JQ59sSVeVxgYjqS+optuO/PEEij6OcFfjCUg\n/LqN4XbzG7h78JJxk/FNXyQyAjRfqAv8SwjSmKRzIZRMDGbUiG1TF/wqRETnQqXM\n4xVDT9Jfur0c4nP2wgsU/yRfTcKlcoEjdzQ7UcS1SQKBgQD+YtdS2csK+HokwM7Z\nwm2mBgtO5b6713lZW5X3478lNp1c23vuuKp5M5TJFlNG1rlZVPbm1+R9aneKC7WU\ntshidtMl8eHZ5BIxUPwQEKbFzbAFDfRdA2a1RxEHMr6fmx4Wkgo4aDsV7izE70Rl\ntJtXPchVxDoCfabsts9W/kDt3wKBgQDJHDnXSGr+TTZe2+Cqurvr+to4JrLCJgH2\nvc8n2d2zfzmByBx6cM3eS9eo22FS7TU3RleQc5VbTqy99U8SczomfYRZhQ3Q9xJX\njdl6Fcdd3wUesYSAZz3rlkmxJKEx3Ac7cN6k6Ueiof/TIiSbHmr57tJzV2xnsABw\nYZjWtzHdDwKBgEejXjAe1WdJglxHT/lTH73ZheW6HXSYwbvAZwNgR7wbHUXBKa2Y\no6luNUBL4TfZ0Giv3Lg1pEsNaIyfr4spzlSsUdolvAy4hccNn26GwfCCdEd4HpDz\nHEGAufLk/3nDHT4N8oLgF4Odh04Oc5yQuA5hf8FneU6qRA/1i35cK7zRAoGBAKCY\nR6AglkAIjHhngRsVDue8Y/IfBPSAwWS14eziz2V9HQEEOamU1vDDA641sZw1DB/d\nriMOCaDmTI9Mix4iobcG2F9cHtJV2nHMNnSFW7UcWMxP2Y1n5ExysNoidA6Ks8PF\nuCVcm/XFA7MoOq8cNTTsf2XX1BtgspkLdq9PjyQFAoGAf9IJzxi+GN3hln3qA+0l\ngwjX+VOMiPNKENwEvON2M0XDDrfxYubOckQ7rKsLrHDHANGGPe78ZzAMdA+gXWhL\nQ3PFGALo7y+mbALLKqguBjkYBtc/t5uZGyyvC2oTb0raLbHqTeRF5Uq8Joj7R0Al\nlqtfC3S03/ROQuFRKyfqcDw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-546@slackclone-59064.iam.gserviceaccount.com",
+  "client_id": "117803800677989479024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-546%40slackclone-59064.iam.gserviceaccount.com"
+}
